@@ -3,7 +3,7 @@ boto==2.48.0
 boto3==1.4.4
 certifi==2017.4.17
 chardet==3.0.4
-Django==1.11.1
+Django==1.11.28
 django-common==0.1.51
 django-cors-headers==2.1.0
 django-extensions==1.7.9
